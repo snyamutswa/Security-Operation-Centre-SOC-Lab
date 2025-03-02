@@ -23,10 +23,11 @@ The Security Operations Centre Lab aimed to generate logs from nodes on an enter
 1: Creating a Network Diagram.
 
 
-<img width="542" alt="Screenshot" src="https://github.com/user-attachments/assets/2ad180bc-d3f9-4231-bd9e-c9fbd1217301" />
+[<img width="542" alt="Screenshot" src="https://github.com/user-attachments/assets/2ad180bc-d3f9-4231-bd9e-c9fbd1217301" />](https://imgur.com/OVaHz5d)
 
 2: Installing all the tools (Oracle VirtualBox, Windows and Linux machines, Active directory and Splunk server)
-<img width="649" alt="installation" src="https://github.com/user-attachments/assets/6e6261c7-ba0f-404f-829c-cd0fb3c42651" />
+
+[<img width="649" alt="installation" src="https://github.com/user-attachments/assets/6e6261c7-ba0f-404f-829c-cd0fb3c42651" />](https://imgur.com/lon6y5G)
 
 
 
