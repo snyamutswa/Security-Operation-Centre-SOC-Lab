@@ -36,7 +36,7 @@ https://i.imgur.com/RoDrETJ.jpeg https://i.imgur.com/QuBzwSA.jpeg
 
 5: Creating Roles on Active Directory.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="42Vi2E2"><a href="https://imgur.com/42Vi2E2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/42Vi2E2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8">
 
 
 
