@@ -26,11 +26,17 @@ https://i.imgur.com/OVaHz5d.png
   
 2: Installing all the tools (Oracle VirtualBox, Windows and Linux machines, Active directory and Splunk server)
 
-(https://imgur.com/lon6y5G)
+https://i.imgur.com/sQBwclM.png
 
 3: Installing and configuaring Sysmon and Splunk on windows machine and Active Directory and making sure they are up and running.
 
-https://imgur.com/O7x2iQW https://imgur.com/mGoxa8V
+https://i.imgur.com/RoDrETJ.jpeg https://i.imgur.com/QuBzwSA.jpeg
+
+4: Installing Splunk on UBUNTU Splunk Server.
+
+5: Creating Roles on Active Directory.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="42Vi2E2"><a href="https://imgur.com/42Vi2E2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
